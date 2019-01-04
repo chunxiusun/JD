@@ -1,0 +1,5 @@
+{"isSample":"0","imgName":"5bf6089cNa3040d25.jpg","rotate":0,"pin":"jiajianbang","data":[{"content":"涓婅。","height":383,"width":244,"code":"1","y":139,"x":141}]}
+{"isSample":"0","imgName":"5bf610fbN4e6002f9.jpg","rotate":0,"pin":"jiajianbang","data":[{"content":"涓婅。","height":268,"width":481,"code":"1","y":69,"x":236}]}
+{"isSample":"0","imgName":"5bf61128N9ca04dd7.jpg","rotate":0,"pin":"jiajianbang","data":[{"content":"涓婅。","height":241,"width":309,"code":"1","y":52,"x":206}]}
+{"isSample":"0","imgName":"5bf6115eN03b400a3.png","rotate":0,"pin":"jiajianbang","data":[{"content":"涓婅。","height":230,"width":404,"code":"1","y":25,"x":173}]}
+{"isSample":"0","imgName":"5bfe6d05Ncf1121c9.jpg","rotate":0,"pin":"jiajianbang","data":[{"content":"涓婅。","height":11,"width":6,"code":"1","y":165,"x":230}]}
